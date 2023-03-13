@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: NESTang
+theme:
+  name: material
+  palette:
+    primary: deep purple
+  logo: assets/logo-transparent.png

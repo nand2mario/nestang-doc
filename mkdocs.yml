@@ -4,3 +4,18 @@ theme:
   palette:
     primary: deep purple
   logo: assets/logo-transparent.png
+nav:
+  - Home: 'index.md'
+  - Downloads: 'downloads.md'
+  - 'Setup for Nano 20K': 'setup_nano.md'
+  - 'Setup for Primer 20K': 'setup_primer.md'
+  - Screenshots: 'screenshots.md'
+  - Development:
+    - 'Building the bitstream': 'dev/build_bitstream.md'
+    - 'SD image format': 'dev/sdimage.md'
+    - 'Tang Primer DDR3 controller': 'dev/ddr3.md'
+    - 'Roadmap': 'dev/plan.md'
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji

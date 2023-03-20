@@ -397,10 +397,10 @@
 </ul>
 <p>Once you have these, set your build up as follows,</p>
 <ul>
-<li>Connected the controller adapters to pin 15-20 of both sides of the board (see <a href="https://dl.sipeed.com/shareURL/TANG/Nano_20K/2_Schematic">schematics</a> if you are not sure). Then connect the controllers.</li>
+<li>Connect the controller adapters to pin 15-20 of both sides of the board (see <a href="https://dl.sipeed.com/shareURL/TANG/Nano_20K/2_Schematic">schematics</a> if you are not sure). Then connect the controllers.</li>
 <li>HDMI connection to a monitor or TV.</li>
 <li>Program <a href="https://github.com/nand2mario/nestang/releases">NESTang 0.5</a> to the board with <a href="https://github.com/trabucayre/openFPGALoader">openFPGALoader</a> or Gowin programmer.</li>
-<li>Use <code>tools/nes2img.py</code> python program to convert .nes ROM files to an .img file. This script requires Python &gt;=3.7 and needs the Pillow package (install with <code>pip3 install pillow</code>).  Then burn that image to the sd card with any sd tool (e.g. <a href="https://www.balena.io/etcher">Balena Etcher</a>).</li>
+<li>Use <code>tools/nes2img.py</code> python program to convert .nes ROM files to an .img file. This script requires Python &gt;=3.7 and needs the Pillow package (install with <code>pip3 install pillow</code>).  Then burn that image to the sd card with any sd tool (e.g. <a href="https://www.balena.io/etcher">Balena Etcher</a>) or <code>dd</code> under Linux or Mac.</li>
 <li>Insert MicroSD and power up the board, and enjoy your game!</li>
 </ul>
 

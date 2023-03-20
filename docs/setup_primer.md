@@ -2,8 +2,8 @@
 
 If you have Tang Primer 20K instead (get the nano if you don't have any board). Then here's what you need.
 
-* Sipeed Tang Primer 20K (starting at $30).
-* Muse-Lab HDMI PMod if you got the lite version of Tang: [aliexpress](https://www.aliexpress.com/item/3256804122775243.html) or [taobao](https://item.taobao.com/item.htm?id=671021594308). The dock version already has HDMI so you are fine. [Wiring instructions](/wiring) for lite version.
+* Sipeed Tang Primer 20K.
+* Muse-Lab HDMI PMod if you got the lite version of Tang: [aliexpress](https://www.aliexpress.com/item/3256804122775243.html) or [taobao](https://item.taobao.com/item.htm?id=671021594308). The dock version already has HDMI so you are fine. [Wiring instructions](../wiring) for lite version.
 
 Here are the steps to set up NESTang，
 
@@ -16,4 +16,4 @@ Here are the steps to set up NESTang，
 
 Now enjoy your game!
 
-For 0.4, there's also a Linux loader program in addition to Windows. See [Linux loader](linux.md)
+There's also a Linux loader program in addition to Windows. See [Linux loader](linux.md)

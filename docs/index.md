@@ -6,10 +6,27 @@ NESTang is a Nintendo Entertainment System emulator for the affordable Sipeed Ta
 
 Main features,
 
-* 720p HDMI video and sound output.
-* Cycle accurate emulation quality as we nearly recreated the NES circuits.
-* Directly connects controllers to the board, or use your PC game controller through the NESTang loader program.
-* Open source and a good way to learn FPGA programming.
+<table style="border: 0px; font-size: 1em;">
+<tr>
+<td width="50%" style="border: 0px;">
+<span style="font-weight: bold">HDMI video and sound</span><br/>
+NES games look sharp in 720p HD resolution
+</td>
+<td width="50%" style="border: 0px;">
+<span style="font-weight: bold">Cycle accurate quality</span><br/>
+We nearly recreated the NES circuits with FPGA
+</td>
+</tr>
+<tr>
+<td width="50%" style="border: 0px;">
+<span style="font-weight: bold">Retro controller support</span><br/>
+Connect a ps2 controller directly to the board, or use your PC game controller
+</td>
+<td width="50%" style="border: 0px;">
+<span style="font-weight: bold">Open source</span><br/>
+A good way to learn FPGA programming
+</td>
+</tr></table>
 
 Interested? You can start by [downloading](downloads) a NESTang release, then [setup your build](setup_nano).
 

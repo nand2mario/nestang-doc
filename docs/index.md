@@ -2,7 +2,7 @@
 
 <img src="assets/nestang0.5.jpg" width="450" />
 
-NESTang is a Nintendo Entertainment System emulator for the affordable Sipeed Tang Nano 20K and Tang Primer 20K FPGA boards.
+NESTang is an FPGA Nintendo Entertainment System implemented with the affordable Sipeed Tang Nano 20K and Tang Primer 20K boards.
 
 Main features,
 
